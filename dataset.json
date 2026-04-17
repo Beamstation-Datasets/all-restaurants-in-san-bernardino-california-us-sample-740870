@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in San Bernardino, California with a population of over 222k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in San Bernardino, California, US",
-  "export_job_id": "693e1b5c-dc70-4799-9ea2-c4671bbb55a6",
+  "export_job_id": "c131eb55-f09e-4915-bb5c-ec6986039a21",
   "github_org": "Beamstation-Datasets",
   "id_short": 740870,
   "location_name": "San Bernardino",
   "location_type": "city",
   "repo_name": "all-restaurants-in-san-bernardino-california-us-sample-740870",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740870/beamstation_740870_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.86,
+  "sample_pct": 9.94,
   "sample_records": 62,
   "sample_sha256": "6f83424ea14214803a80cff50759809ea942e0a331557e0ec979c144ca216d66",
   "sample_size_bytes": 248477,
-  "total_records": 629,
-  "updated_at": "2026-04-07T12:55:13.584492+00:00"
+  "total_records": 624,
+  "updated_at": "2026-04-14T12:48:31.889307+00:00"
 }
