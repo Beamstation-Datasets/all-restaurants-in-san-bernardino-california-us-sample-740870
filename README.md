@@ -9,9 +9,9 @@
 | Dataset ID | `740870` |
 | Location | San Bernardino |
 | Category | Restaurants |
-| Full dataset size | 629 records |
-| Free sample size | 62 records (9.86%) |
-| Last export | 2026-04-07T12:55:13.584492+00:00 |
+| Full dataset size | 624 records |
+| Free sample size | 62 records (9.94%) |
+| Last export | 2026-04-14T12:48:31.889307+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-bernardino-california-us-sample-740870/releases/download/sample-latest/beamstation_740870_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
