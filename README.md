@@ -1,6 +1,6 @@
 # All Restaurants in San Bernardino, California, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 46 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `740870` |
 | Location | San Bernardino |
 | Category | Restaurants |
-| Full dataset size | 604 records |
-| Free sample size | 60 records (9.93%) |
-| Last export | 2026-04-21T13:34:30.911417+00:00 |
+| Full dataset size | 463 records |
+| Free sample size | 46 records (9.94%) |
+| Last export | 2026-04-28T14:36:42.546527+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-bernardino-california-us-sample-740870/releases/download/sample-latest/beamstation_740870_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
