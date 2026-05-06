@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d13326af-04e5-45c5-8ada-ec08381ca5b9",
+  "export_job_id": "ca07d37d-5edd-4170-b778-e18358e038d0",
   "id_short": 740870,
-  "published_at": "2026-04-28T19:56:30Z",
+  "published_at": "2026-05-06T07:17:49Z",
   "repo_name": "all-restaurants-in-san-bernardino-california-us-sample-740870",
   "sample_asset_name": "beamstation_740870_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740870/beamstation_740870_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "3ac1be918f6ab992f4b49e55db3909f769326ee562bfd712719a6a31e3c1d14c",
-  "sample_size_bytes": 180642,
-  "total_records": 463
+  "sample_records": 62,
+  "sample_sha256": "27201e52bf2d4439c5b14a367ab71e945b981f66f1e14885aee8f6d166f736dc",
+  "sample_size_bytes": 241736,
+  "total_records": 623
 }
